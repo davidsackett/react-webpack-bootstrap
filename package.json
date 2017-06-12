@@ -20,5 +20,6 @@
   },
   "scripts": {},
   "author": "David Sackett",
-  "license": "ISC"
+  "license": "ISC",
+  "private": true
 }
